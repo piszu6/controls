@@ -1,0 +1,28 @@
+::placeholder {
+  color: rgb(192, 192, 192);
+}
+
+:-ms-input-placeholder {
+  color: rgb(192, 192, 192);
+}
+
+::-ms-input-placeholder {
+  color: rgb(192, 192, 192);
+}
+
+input {
+  border-color: rgb(128, 128, 128);
+  border-style: solid;
+  border-width: 1px;
+  font-size: 14px;
+  padding: 12px;
+  outline: none;
+}
+
+input:active {
+  border-color: rgb(0, 0, 0);
+}
+
+input:focus {
+  border-color: rgb(0, 0, 0);
+}
